@@ -1,0 +1,59 @@
+body{
+    background-color: #1C1F26;
+}
+#Titulo{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    align-items: center;
+    color: #F5F5F5;
+}
+header{
+    background-color: #0A0F1C;
+}
+#Portada{
+    border-radius: 10%;
+    max-width: 800px;
+}
+#Secport{
+    text-align: center;
+    align-content: center;
+}
+h1{
+    font-size: 80px;
+    color: #00CFFF;
+}
+h2{
+    font-size: 100px;
+}
+p{
+    color: white;
+    font-size: 50px;
+}
+#Img{
+    border-radius: 10%;
+    max-width: 800px;
+}
+h3{
+    color: #76b9c9;
+    font-size: 40px;
+}
+#p4{
+    text-align: center;
+}
+#t4{
+    text-align: left;
+}
+h4{
+    color: #00CFFF;
+    font-size: 35px;
+    text-align: center;
+}
+nav{    
+    background-color: #102A43;
+
+}
+a{
+    color: #00CFFF;
+    margin-right:20px;
+    margin-left: 20px;
+}
